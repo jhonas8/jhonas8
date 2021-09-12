@@ -1,8 +1,7 @@
 - 👋 Hi, I’m John
 - 👀 I’m interested in Web development and Data science.
-- 🌱 I’m currently learning Angular, React, R, Node.js and Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ReactJS and NodeJS.
+- 📫 How to reach me: EMAIL ==> joao.facebook62@gmail.com
 
 <!---
 jhonas8/jhonas8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
