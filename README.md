@@ -15,6 +15,7 @@ Connect with me:
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
+[website]: https://codeSTACKr.com
 [youtube]: https://www.youtube.com/channel/UCawXZgFl5jy_kYIibc19RMQ
 [instagram]: https://www.instagram.com/joao_melo_ribeiro/
 [linkedin]: https://www.linkedin.com/in/joao-melo-ribeiro/ 
