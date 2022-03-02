@@ -34,3 +34,11 @@ Connect with me:
 <h3>📺 Youtube lastest videos</h3>
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+<br/><br/>
+
+<img
+    alt="Github status"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=jhonas8&show_icons=true&hide_border=true"
+/>
