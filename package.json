@@ -1,0 +1,22 @@
+{
+  "name": "jhonas8",
+  "version": "1.0.0",
+  "description": "Github repository for my personal profile on Github.",
+  "main": "README.md",
+  "scripts": {
+      "git": "git add . && git commit -m '$npm_config_message' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonas8/jhonas8.git"
+  },
+  "keywords": [
+    "github_profile"
+  ],
+  "author": "João Melo <joao.victor.ribeiro.melo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonas8/jhonas8/issues"
+  },
+  "homepage": "https://github.com/jhonas8/jhonas8#readme"
+}
