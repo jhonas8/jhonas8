@@ -6,6 +6,13 @@
 
 Connect with me:
 
+[<img
+    alt="youtube icon"
+    src="https://www.svgrepo.com/show/111232/youtube.svg"
+    align="left"
+    width="22px"
+/>][youtube]
+
 [website]: https://codeSTACKr.com
 [youtube]: https://www.youtube.com/channel/UCawXZgFl5jy_kYIibc19RMQ
 [instagram]: https://www.instagram.com/joao_melo_ribeiro/
