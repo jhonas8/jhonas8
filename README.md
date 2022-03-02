@@ -43,6 +43,10 @@ Connect with me:
     src="https://github-readme-stats.vercel.app/api?username=jhonas8&show_icons=true&hide_border=true"
 />
 
-<br/><br/><br/><br/>
+<br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonas8)](https://github.com/anuraghazra/github-readme-stats)
+<img
+    alt="Most used languages on GitHub"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonas8&langs_count=10)"
+/>
