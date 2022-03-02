@@ -37,16 +37,12 @@ Connect with me:
 
 <br/><br/>
 
-<h3>Status</h3>
 <img
     alt="Github status"
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=jhonas8&show_icons=true&hide_border=true"
 />
 
-<br/><br/>
-
-<h3>Most used languages</h3>
 <img
     alt="Most used languages on GitHub"
     align="left"
