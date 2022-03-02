@@ -7,6 +7,12 @@
 Connect with me:
 
 [<img
+    alt="Linkedin icon"
+    src="https://www.svgrepo.com/show/157006/linkedin.svg"
+    align="left"
+    width="22px"
+/>]
+[<img
     alt="youtube icon"
     src="https://www.svgrepo.com/show/111232/youtube.svg"
     align="left"
