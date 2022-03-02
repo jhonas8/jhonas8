@@ -11,15 +11,20 @@ Connect with me:
     src="https://www.svgrepo.com/show/157006/linkedin.svg"
     align="left"
     width="22px"
-/>]
+/>][linkedin]
 [<img
     alt="youtube icon"
     src="https://www.svgrepo.com/show/111232/youtube.svg"
     align="left"
     width="22px"
 />][youtube]
+[<img
+    alt="instagram icon"
+    src="https://www.svgrepo.com/show/157806/instagram.svg"
+    align="left"
+    width="22px"
+/>][instagram]
 
-[website]: https://codeSTACKr.com
 [youtube]: https://www.youtube.com/channel/UC55I82of48ifgWBssbyOtGA 
 [instagram]: https://www.instagram.com/joao_melo_ribeiro/
 [linkedin]: https://www.linkedin.com/in/joao-melo-ribeiro/ 
