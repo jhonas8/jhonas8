@@ -43,7 +43,7 @@ Connect with me:
     src="https://github-readme-stats.vercel.app/api?username=jhonas8&show_icons=true&hide_border=true"
 />
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 <img
     alt="Most used languages on GitHub"
