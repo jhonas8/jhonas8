@@ -31,6 +31,12 @@ Connect with me:
 
 <br/> <br/>
 
+<h3>📺 Youtube lastest videos</h3>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<br/><br/>
+
 <img
     alt="Github status"
     align="left"
@@ -42,12 +48,3 @@ Connect with me:
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonas8&langs_count=10&theme=algolia&layout=compact&hide_border=true)"
 />
-
-<br/><br/>
-
-<h3>📺 Youtube lastest videos</h3>
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-
-
