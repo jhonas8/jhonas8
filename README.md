@@ -1,8 +1,7 @@
 - 👋 Hi, I’m João Victor Ribeiro Melo (John);
 - 👀 I’m interested in Web Development and Computer Mathematics;
-- 🌱 I’m currently learning React, Nodejs and Springboot (java);
 - 📫 How to reach me: EMAIL ==> joao.victor.ribeiro.melo@gmail.com;
-- ⚙️  Working experience: Freelancer projects (CardioFedback is one available here), React Developer and Jr. Software engineer;
+- ⚙️  Working experience: Freelancer projects (CardioFedback is one available here), React Front-end developer and Software engineer (AWS, React Native, Express);
 
 Connect with me:
 
