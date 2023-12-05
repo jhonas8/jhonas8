@@ -1,4 +1,5 @@
-- 👋 Hi, I’m João Victor Ribeiro Melo (John);
+ Hi, I’m João Victor Ribeiro Melo (John); [linkedin]: https://www.linkedin.com/in/joao-melo-ribeiro/ 
+ <br/>
 
 [<img
     alt="Linkedin icon"
@@ -8,9 +9,8 @@
 />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/joao-melo-ribeiro/ 
 
-<br/> <br/>
+<br/>
 
 <img
     alt="Github status"
