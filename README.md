@@ -1,7 +1,3 @@
-Hi, I’m João Victor Ribeiro Melo (John); 
-
-<br/>
-
 <img
     alt="Github status"
     src="https://github-readme-stats.vercel.app/api?username=jhonas8&show_icons=true&hide_border=true&theme=algolia"
