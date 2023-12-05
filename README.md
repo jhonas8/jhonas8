@@ -1,11 +1,9 @@
-Hi, I’m João Victor Ribeiro Melo (John);[<img
+Hi, I’m João Victor Ribeiro Melo (John); [<img
     alt="Linkedin icon"
     src="https://www.svgrepo.com/show/157006/linkedin.svg"
     align="left"
     width="22px"
 />]
- <br/>
-
 
 <br/>
 
